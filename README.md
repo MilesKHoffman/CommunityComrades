@@ -1,1 +1,1 @@
-To run Community Comrades, you must have Express, Node.js, and MongoDB dependencies. In order to start the application, go to your terminal and type "npm run start:dev".
+To run Community Comrades, you must have Express, Node.js, and MongoDB dependencies (MERN stack). In order to start the application, go to your terminal and type "npm run start:dev". Wait for the local host link to appear, then click on it. Enjoy!
